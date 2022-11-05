@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@600&display=swap');
+body{
+
+    padding: 0%;
+    margin: 0%;
+    background-color:rgb(255, 246, 228);
+}
+
+h1{
+    text-align: center;
+    margin-top: 8%;
+    font-family: 'Oleo Script', cursive;
+    font-size: 96px;
+    color: rgb(255, 181, 205);
+    /* 1 pixel black shadow to left, top, right and bottom */
+    text-shadow: -4px 0 purple, 0 1px purple, 1px 0 purple, 0 -1px purple;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    color: rgb(251, 227, 189);
+    text-shadow: -2px 0 purple, 0 1px purple, 1px 0 purple, 0 -1px purple;
+}
+
+p{
+    text-align: center;
+    font-family: 'Domine', serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 30px;
+    color: rgb(44, 18, 0);
+    
+
+}
+
+li{
+    text-align: center;
+    font-family: 'Domine', serif;
+    margin-left: 600px;
+    margin-right: 200px;
+    font-size: 30px;
+    display: flex;
+    color: rgb(44, 18, 0);
+}
